@@ -39,19 +39,32 @@
 ### 🏆 Certifications
 
 <div align="center">
-  <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="6e869054-b3cf-4f6a-9fef-46c2806263b3" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+  <a href="https://www.credly.com/badges/6e869054-b3cf-4f6a-9fef-46c2806263b3/public_url" target="_blank">
+    <img src="associate-cloud-engineer-certification.png" alt="GCP Associate Cloud Engineer" width="150" />
+  </a>
 </div>
 
-**Additional Credentials:**
-- 🏅 Scrum Master + Agile Scrum Training
-- ☸️ Getting Started with Google Kubernetes Engine
-- ☁️ Elastic Google Cloud Infrastructure: Scaling and Automation
-- 👨‍💻 C# Advanced Topics
+**☁️ Cloud Architecture & DevOps**
+- Getting Started with Terraform for Google Cloud *(Google)*
+- Elastic Google Cloud Infrastructure: Scaling and Automation *(Google)*
+- Getting Started with Google Kubernetes Engine *(Google)*
+- Develop Your Google Cloud Network Skill Badge *(Google)*
+
+**💻 Software Engineering & Backend**
+- RESTful Web API - The Complete Guide (.NET 7 API) *(Udemy)*
+- C# Advanced Topics: Prepare for Technical Interviews *(Udemy)*
+- Testing React with Jest and React Testing Library *(Udemy)*
+
+**🧠 AI & Leadership**
+- Introduction to Generative AI *(Google)*
+- Scrum Master + Agile Scrum Training *(Udemy)*
 
 ---
 
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=himanshu2408&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF" alt="himanshu2408's GitHub stats" />
+  <a href="https://github.com/himanshu2408">
+    <img src="https://awesome-github-stats.azurewebsites.net/user-stats/himanshu2408?cardType=level&theme=radical" alt="himanshu2408's GitHub stats" />
+  </a>
 </div>
