@@ -8,7 +8,7 @@
 
 ### 🚀 About Me
 
-- 🌍 Based in **Berlin, Germany** (Originally from Guwahati, India).
+- 🌍 Based in **Berlin, Germany** (Originally from India).
 - 🏢 Currently driving the technical roadmap for cloud-native platforms at **dunnhumby**.
 - 🔭 **Actively building:**
   - 🎯 **Sniper:** An autonomous algorithmic trading model targeting Nifty 50 equities with custom multi-layered execution logic.
