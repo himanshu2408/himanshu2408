@@ -27,6 +27,8 @@ An enterprise multi-domain context discovery, verification, and implementation p
 | **Kernel-Level Multi-Tenant Security** | Out-of-band `PrincipalContext` binding via `contextvars` in MCP 2.3 servers (zero identity parameters exposed to LLM prompts) + PostgreSQL 17 `FORCE ROW LEVEL SECURITY` (`SET LOCAL app.principal_scopes`) + `ShieldGemma 2` guardrails | **100.0% RBAC Zero-Leakage** (22 red-team cross-tenant probes) · **95.45% Prompt-Injection Block Rate** |
 | **Verification & CI/CD Gates** | 6-gate automated evaluation harness, OpenTelemetry GenAI semantic conventions, isolated `GitWorktreeSandbox` with `require_confirmation=True` human-in-the-loop write approval | **537/537 Python tests + 43/43 strict-TS Vitest tests passing** (`0` `mypy --strict` / `ruff` / `eslint` errors) |
 
+- **Companion Empirical Study — [NIFTY 50 EOD Walk-Forward & Challenger Evaluation (`nifty-eod-dashboard`)](https://github.com/himanshu2408/nifty-eod-dashboard):** Live post-mortem and challenger evaluation dashboard analyzing how baseline technical/momentum signals degrade under real `IN_NSE` delivery friction ($\ge 15\text{ bps}$ STT/exchange costs) and volatility regime shifts—directly motivating the deterministic **Market-Regime Quant Scepticism Gate** in `enterprise-context-scout`.
+
 ---
 
 ### Google Cloud Certifications
